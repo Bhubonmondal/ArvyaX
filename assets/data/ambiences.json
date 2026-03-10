@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "durationSeconds": 180,
+    "description": "Deep within the ancient woods, steady raindrops and wind guide your concentration.",
+    "sensoryChips": ["Breeze", "Soft Rain", "Woodland"],
+    "audioAssetPath": "assets/audio/forest.mp3",
+    "thumbnailAssetPath": ""
+  },
+  {
+    "id": "2",
+    "title": "Ocean Reset",
+    "tag": "Reset",
+    "durationSeconds": 120,
+    "description": "Rhythmic waves rolling onto a misty shore to clear your mind.",
+    "sensoryChips": ["Waves", "Mist", "Binaural"],
+    "audioAssetPath": "assets/audio/ocean.mp3",
+    "thumbnailAssetPath": ""
+  },
+  {
+    "id": "3",
+    "title": "Evening Calm",
+    "tag": "Calm",
+    "durationSeconds": 300,
+    "description": "A quiet sunset with crickets and a gentle warm breeze.",
+    "sensoryChips": ["Warm Light", "Crickets", "Stillness"],
+    "audioAssetPath": "assets/audio/evening.mp3",
+    "thumbnailAssetPath": ""
+  },
+  {
+    "id": "4",
+    "title": "Deep Sleep",
+    "tag": "Sleep",
+    "durationSeconds": 600,
+    "description": "Low frequency hums and distant thunder for a restorative rest.",
+    "sensoryChips": ["Thunder", "Darkness", "Pink Noise"],
+    "audioAssetPath": "assets/audio/sleep.mp3",
+    "thumbnailAssetPath": ""
+  },
+  {
+    "id": "5",
+    "title": "Cafe Hustle",
+    "tag": "Focus",
+    "durationSeconds": 240,
+    "description": "The ambient chatter and clinking of a corner coffee shop.",
+    "sensoryChips": ["Chatter", "Coffee", "Warmth"],
+    "audioAssetPath": "assets/audio/cafe.mp3",
+    "thumbnailAssetPath": ""
+  },
+  {
+    "id": "6",
+    "title": "Morning Breeze",
+    "tag": "Calm",
+    "durationSeconds": 150,
+    "description": "Crisp morning air and light bird song to start your day right.",
+    "sensoryChips": ["Birds", "Crisp Air", "Sunlight"],
+    "audioAssetPath": "assets/audio/morning.mp3",
+    "thumbnailAssetPath": ""
+  }
+]
