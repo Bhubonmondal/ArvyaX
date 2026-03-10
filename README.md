@@ -6,7 +6,7 @@ An immersive and minimal ambient sound companion built with Flutter, Riverpod, a
 1. Ensure you have Flutter SDK installed (`>=3.4.0` recommended).
 2. Clone/unzip the project.
 3. Run `flutter pub get`.
-4. Run the app: `flutter run` on iOS, Android, macOS, or Web.
+4. Run the app: `flutter run`
 5. Alternatively, install the provided apks from apk folder on an Android device.
 
 ## Architecture Explanation
