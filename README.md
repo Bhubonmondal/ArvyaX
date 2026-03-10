@@ -1,5 +1,7 @@
 # ArvyaX Mini
 
+![ArvyaX Demo](sample.gif)
+
 An immersive and minimal ambient sound companion built with Flutter, Riverpod, and Hive.
 
 ## How to run the project
